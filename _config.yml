@@ -10,7 +10,7 @@ name: 80 x 24
 title: Eight by Twenty-Four (80x24)
 email: tfanelli@zblservices.com
 description: > # this means to ignore newlines until "baseurl:"
-  Eighty by Twenty Four (80x24) is a z/OS Mainframe blog by ZBL Services, Inc's Tim Fanelli. Tim has been a mainframer since 2000, and focuses on skills training, education, training, and productivity.
+  Eighty by Twenty Four (80x24) is a z/OS Mainframe blog by ZBL Services, Inc's Tim Fanelli. Tim has been a mainframer since 2000, and focuses on skills training, education, and productivity.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://eightybytwentyfour.com" # the base hostname & protocol for your site
 twitter_username: zblservices
